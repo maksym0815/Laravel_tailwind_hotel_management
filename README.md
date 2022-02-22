@@ -1,7 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/abinoval/hollux)
-
 Hollux is a hotel website that can be used for online reservations. Built using the [TALL Stack](https://tallstack.dev/): [Tailwind CSS 3](https://tailwindcss.com/), [AlpineJS 3](https://alpinejs.dev/), [Livewire 2](https://laravel-livewire.com/), [Laravel 9](https://laravel.com/). I actually made the UI here myself using Tailwind CSS and AplineJS without using any templates at all.
 
 ## About Laravel
